@@ -87,7 +87,7 @@ Desktop: 2-column layout (builder + review panel)
 - Animations for step transitions
 
 ### Preview
-![Desktop View]("./src/assets/screenshots/desktop.png")
+![Desktop View](./src/assets/screenshots/desktop.png)
 
 ##  Project Highlights
 
