@@ -85,6 +85,9 @@ Desktop: 2-column layout (builder + review panel)
 - Checkout integration
 - Compare bundles feature
 - Animations for step transitions
+- 
+## Live Demo
+🔗 https://bundle-builder-flax.vercel.app/
 
 ### Preview
 ![Desktop View](./src/assets/screenshots/desktop.png)
