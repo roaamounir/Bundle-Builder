@@ -88,9 +88,6 @@ Desktop: 2-column layout (builder + review panel)
 
 ### Preview
 ![Desktop View]("./src/assets/screenshots/desktop.png")
-![Tablet View](./src/assets/screenshots/tablet.png)
-![Mobile View](./src/assets/screenshots/mobile.png)
-
 
 ##  Project Highlights
 
