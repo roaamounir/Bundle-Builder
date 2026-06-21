@@ -28,7 +28,7 @@ Users can customize their own security system by selecting cameras, plans, senso
 ## Installation & Setup ##
 
 - Clone the repo:
-git clone https://github.com/your-username/bundle-builder.git
+git clone [https://github.com/roaamounir/Bundle-Builder.git]
 
 - Install dependencies:
 npm install
