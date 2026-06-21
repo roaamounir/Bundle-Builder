@@ -89,8 +89,8 @@ Desktop: 2-column layout (builder + review panel)
 ### Preview
 
 <div align="center">
-  <img src="./assets/screenshots/desktop.png" alt="Desktop View" width="300" />
-  <img src="./assets/screenshots/tablet.png" alt="Tablet View" width="200" />
+  <img src="./src/assets/screenshots/desktop.png" alt="Desktop View" width="300" />
+  <img src="./src/assets/screenshots/tablet.png" alt="Tablet View" width="200" />
   <img src="./assets/screenshots/mobile.png" alt="Mobile View" width="150" />
 </div>
 
